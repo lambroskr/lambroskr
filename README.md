@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lambros</h1>
 <h3 align="center">A Senior Applied Informatics student specializing in backend development, with a foundation in Java, Spring framework, and database management.</h3>
 
-- 🔭 I’m currently working on [BookPlatformDemo](https://github.com/lambroskr/BookPlatformDemo/tree/master)
+- 🔭 I’m currently working on [TicketsTradingPlatform](https://github.com/lambroskr/TicketsTradingPlatform)
 
 - 🌱 I’m currently learning **Java, SpringBoot, Spring Framework**
 
